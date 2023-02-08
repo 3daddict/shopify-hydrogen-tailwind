@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "eslint-config-atomic",
+    "plugin:you-dont-need-lodash-underscore/compatible"
+  ],
+  "ignorePatterns": [
+    "dist/",
+    "node_modules/"
+  ]
+}
